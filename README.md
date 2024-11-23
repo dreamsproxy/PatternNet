@@ -1,0 +1,2 @@
+# PatternNet
+Pattern detection implementations.
